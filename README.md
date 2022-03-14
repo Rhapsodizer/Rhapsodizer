@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rhapsodizer
-- 👀 I’m interested in electronics, music, programming, offline & offgrid
+- 👀 I’m interested in electronics, music and programming.
 - 🌱 I’m currently learning and I will forever
 
 <!---
