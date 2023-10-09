@@ -4,12 +4,12 @@
 
 Programming languages, technologies and ecosystems:
 - C/C++
-- Python
-- Vulkan
+- Python, Anaconda, Jupyter Notebook
+- Vulkan API
 - Processing (Java)
 - HTML, Css, Javascript/Truescript
 - Supercollider
-- Microcontrollers programming, sensors and actuators
+- Microcontrollers programming (Arduino), sensors and actuators
 - GLSL
 - Juce
 - Firebase RTD
