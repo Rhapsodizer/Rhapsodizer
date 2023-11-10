@@ -3,17 +3,12 @@
 - 🌱 I’m currently learning and I will forever
 
 Programming languages, technologies and ecosystems:
-- C/C++
-- Python, Anaconda, Jupyter Notebook
-- Vulkan API
-- Processing (Java)
-- HTML, Css, Javascript/Truescript
-- Supercollider
+- LANGUAGES: C/C++, Python, Matlab, Javascript, Java for Processing
+- GRAPHIC: Vulkan API, WebGL, GLSL
+- WEB: HTML, Css, Javascript/Truescript, Vue.js
+- MULTIMEDIA: Supercollider, Processing, Juce
 - Microcontrollers programming (Arduino), sensors and actuators
-- GLSL
-- Juce
-- Firebase RTD
-- Matlab / Octave
+- SERVICES: Firebase RTD
 
 Confortable with any software in the category:
 - Office suites
@@ -22,6 +17,7 @@ Confortable with any software in the category:
 - Graphics (manipulation, editing, animation, 2D, 3D)
 - CAD (2D and 3D)
 - Scientific (Matlab, Octave, Comsol)
+- Game engines: Godot
 
 OSs:
 - Windows
