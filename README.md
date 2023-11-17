@@ -21,12 +21,12 @@ Confortable with any software in the category:
 
 OSs:
 - Windows
-- Linux
+- GNU/Linux
 
 IDEs:
 - Visual Studio
 - Visual Studio Code
-- Terminal and notepad in Linux ;)
+- Terminal and notepad in GNU/Linux ;)
 
 
 <!---
