@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics, music and programming.
 - 🌱 I’m currently learning and I will forever
 
-Programming languages, technologies and ecosystems:
+Programming languages and technologies:
 - LANGUAGES: C/C++, Python, Matlab, Javascript, Java for Processing
 - GRAPHIC: Vulkan API, WebGL, GLSL
 - WEB: HTML, Css, Javascript/Truescript, Vue.js
